@@ -1,4 +1,4 @@
-# This repo contains the basics of Neural Network (assignments completed by me for Deep Learning Specialization course)
+# This repo contains the basics of Neural Network (assignments completed by me for Deep Learning Specialization)
 
 01_Neural-Networks-basics
 
