@@ -1,11 +1,9 @@
 # This repo contains the basics of Neural Network (assignments completed by me for Deep Learning Specialization course)
 
-01_introduction-to-deep-learning
+01_Neural-Networks-basics
 
-02_neural-networks-basics
+02_Optimization-of-Neural-Networks
 
-03_shallow-neural-networks
+03_Convolution-Neural-Networks
 
-04_deep-neural-networks
-
-05_Resources
+04_Sequence Models
